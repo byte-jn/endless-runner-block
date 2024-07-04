@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  #gameCanvas {
+    background: #000000;
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
